@@ -38,6 +38,3 @@
 **Conclusion:**
 AI served as a productivity tool similar to documentation, Stack Overflow, or pair programming. It accelerated development but did not replace fundamental understanding of mobile application development concepts.
 
----
-
-Save this as `Ai_usage.txt` in your project root folder.
